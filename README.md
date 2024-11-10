@@ -1,8 +1,6 @@
-# conversao-distancia
-
 **Aprendizado de Docker com Containerização de Aplicação**
 
-Durante o meu recente projeto, tive a oportunidade de mergulhar no mundo do **Docker** e aprender como containerizar uma aplicação para otimizar seu processo de desenvolvimento e implantação.
+Durante o projeto conversao-distancia, tive a oportunidade de mergulhar no mundo do **Docker** e aprender como containerizar uma aplicação para otimizar seu processo de desenvolvimento e implantação.
 
 O projeto consistiu em pegar uma aplicação existente (pode ser uma aplicação em **Python**, **Node.js**, **Java**, etc.) e colocá-la dentro de um **container Docker**. O principal objetivo foi garantir que a aplicação pudesse ser executada de maneira consistente em qualquer ambiente, independentemente de configurações locais ou sistemas operacionais.
 
